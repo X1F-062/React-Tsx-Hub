@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚛ React TSX Learning Hub
 
 Modern görünümlü, **dark/light mode** destekli, interaktif React & TypeScript öğrenme sitesi.
@@ -95,3 +96,7 @@ react-tsx-learning-hub/
 | ✅ Kod kalitesi | Temiz isimlendirme, düzenli dosya yapısı, yorum satırları |
 | ✅ Etkileşim | Quiz, LiveDemo (3 sekme), konu seçimi, kopyalama, tema toggle |
 | ✅ Projeye hakimiyet | npm install + npm start ile çalışır |
+=======
+# React-Tsx-Hub
+React Tsx Öğretmeyi Hedefleyen Eğitici Web Sayfası
+>>>>>>> dcce6b14a07238326be39607ee804232a433129b
